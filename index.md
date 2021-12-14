@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# 欢迎来到23胡彬的个人博客！
 
-You can use the [editor on GitHub](https://github.com/23Hubin/23hubin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+本博客目前正在测试阶段，具体开放时间另行通知。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 广播电视方面
 
-### Markdown
+本人早在2011年注册土豆账号，随后于2013年进入放送圈，同时注册百度和b站账号。2019年开始在b站投稿广播电视视频。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 架空电视方面
 
-```markdown
-Syntax highlighted code block
+本人持有的架空电视台有：枕木广播电视台、岩台广播电视台、武德广播电视台、扬北广播电视台以及东川广播电视台。
 
-# Header 1
-## Header 2
-### Header 3
+## 联系我们
 
-- Bulleted
-- List
+b站：23胡彬MEMZ
 
-1. Numbered
-2. List
+百度：23胡彬
 
-**Bold** and _Italic_ and `Code` text
+微博：23胡彬
 
-[Link](url) and ![Image](src)
-```
+微信：23胡彬
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+云音乐：23胡彬
 
-### Jekyll Themes
+wiki：23胡彬
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/23Hubin/23hubin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+QQ：584371666
